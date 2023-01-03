@@ -31,17 +31,9 @@
 - calculation Price After confirmation offer code
 
 
-##### [Live Demo](https://foodstuffs-store.erfjs.com) on Netlify
+##### [Live Demo](https://gilded-crostata-0ae08c.netlify.app/) on Netlify
 
 <p align="center">
   <a src="https://foodstuffs_store.erfjs.com" target="_blank"><img src="./readme/example1.png" width="800" height="auto" /></a>
-</p>
-<p align="center">
-  <a src="https://foodstuffs_store.erfjs.com" target="_blank"><img src="./readme/example2.png" width="800" height="auto" /></a>
-</p>
-
-<p align="center">Lighthouse Speed</p>
-<p align="center">
-  <a src="https://foodstuffs_store.erfjs.com" target="_blank"><img src="./readme/lighthouse.png" width="400" height="auto" /></a>
 </p>
 
