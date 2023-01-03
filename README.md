@@ -15,8 +15,6 @@
 - info page for products
 - state management with useReducer Hook and Context Api
 - RTL & LTR webSite
-- 2 Language Support
-- 2 Language Search
 - Local Storage State management
 - Favorite Page
 - Add , Delete , Delete All Favorite products
